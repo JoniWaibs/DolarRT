@@ -1,3 +1,4 @@
-La aplicacion esta creada con React y consume una API publica que devuelve el precio del dolar en vivo.
-Se puede ver y utlizar en el siguiente enlace
-https://vigorous-hawking-782ada.netlify.app/ 
+La aplicacion esta creada con React JS
+Consume una API publica que retorna el precio del dolar en vivo.
+Para los estilos utiliza StyleComponents.
+Link al deploy:https://vigorous-hawking-782ada.netlify.app/ 
